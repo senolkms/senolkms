@@ -35,7 +35,6 @@
 ### **Databases & DevOps**
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -52,22 +51,3 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senolkms&layout=compact&theme=radical" />
 </p>
-
----
-
-## 🏆 **GitHub Achievements**
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=senolkms&theme=radical" />
-</p>
-
----
-
-### **🔹 Yapılan Güncellemeler:**
-✅ **"Languages & Tools" olarak birleştirildi** (HTML, CSS gibi diller ayrı bir kategoriye eklendi)  
-✅ **"Programming Languages" ve "Web Development" ayrıldı** (daha düzenli görünüyor)  
-✅ **"Databases & DevOps" ve "AI & Cybersecurity" bölümleri detaylandırıldı**  
-
-🚀 **Bu haliyle GitHub profilin çok daha okunaklı ve profesyonel!**  
-📌 **Bunu README.md olarak ekleyip profilinde göstermek için yukarıdaki adımları takip et.**  
-
-💡 **Bir şey eklemek veya değiştirmek istersen bana yaz!** 😊
