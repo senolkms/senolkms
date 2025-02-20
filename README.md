@@ -58,24 +58,3 @@
 
 ---
 
-## 💡 **Fun Facts**
-- 🎮 I love playing strategy and puzzle games.  
-- 📚 I enjoy reading about **AI, Cybersecurity, and Linux systems**.  
-- 🎯 My goal is to contribute to **open-source AI and cybersecurity projects**.  
-
----
-
-## 📜 **Lisans**
-Bu proje **MIT Lisansı** ile korunmaktadır.
-
----
-
-## 📧 **İletişim**
-📩 **E-posta:** yourmail@example.com  
-🔗 **GitHub:** [senolkms](https://github.com/senolkms)  
-🔗 **LinkedIn:** [Profilim](https://www.linkedin.com/in/senolkms)  
-
----
-
-### ⭐ **Beğendiyseniz, Lütfen ⭐ (Star) Butonuna Basın!** 🚀  
-Bu projeye katkıda bulunduğunuz için teşekkür ederim! 😊  
