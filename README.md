@@ -1,14 +1,12 @@
-<h1 align="center">Hi 👋, I'm [Senin Adın]</h1>
+<h1 align="center">Hi 👋, I'm Şenol</h1>
 <h3 align="center">A Computer Engineering Student & AI & Cybersecurity Enthusiast</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 📌 **About Me:**  
-- 🔭 I’m currently working on **Artificial Intelligence, Cybersecurity & Computer Vision**  
+- 🔭 I’m currently working on **Artificial Intelligence, Cybersecurity**  
 - 🌱 I’m currently learning **Linux, Machine Learning & Deep Learning**  
-- 💬 Ask me about **Python, C, Java, SQL, and Computer Vision**  
-- 🎯 My goal is to become an **AI & Cybersecurity Expert**  
-- 📫 How to reach me: **[E-posta Adresin]**  
+- 🎯 My goal is to become an **AI & Cybersecurity Expert**   
 - 🌐 All of my projects are available at **[GitHub Profilim](https://github.com/senolkms)**  
 
 ---
@@ -17,7 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/senolkms) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/senolkms) 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/senolkms)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:senolkumas58@gmail.com)
 
 ---
 
@@ -43,30 +41,6 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
----
-
-## 📂 **Pinned Projects**
-⭐ **Featured Project: Computer Vision**  
-📌 [**Image Processing & Object Detection**](https://github.com/senolkms/Image-Processing-Project)  
-🔹 **Technologies:** OpenCV, Python, Machine Learning  
-🔹 **Description:** This project detects and tracks objects in real-time using computer vision.  
-
-📌 [**Cybersecurity Attack Simulation**](https://github.com/senolkms/Cybersecurity-Simulation)  
-🔹 **Technologies:** Python, Kali Linux, Wireshark  
-🔹 **Description:** A penetration testing framework that identifies security vulnerabilities in networks.  
-
-📌 [**Stock Management System**](https://github.com/senolkms/Stock-Management)  
-🔹 **Technologies:** Django, MySQL, HTML, CSS  
-🔹 **Description:** A web-based inventory management system with real-time tracking.  
-
----
-
-## 📊 **GitHub Stats**
-<p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=senolkms&show_icons=true&theme=radical" />
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=senolkms&theme=radical" />
-</p>
 
 ---
 
