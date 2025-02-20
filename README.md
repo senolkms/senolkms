@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Senin Adın]</h1>
+<h1 align="center">Hi 👋, I'm Şenol</h1>
 <h3 align="center">A Computer Engineering Student & AI Enthusiast from Türkiye</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -42,14 +42,6 @@
 
 ---
 
-## 📊 **GitHub Stats**
-<p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=senolkms&show_icons=true&theme=radical" />
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=senolkms&theme=radical" />
-</p>
-
----
-
 ## 🚀 **Top Used Languages**
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senolkms&layout=compact&theme=radical" />
@@ -70,23 +62,3 @@
 - 🎯 My goal is to become a **Senior AI Engineer** and contribute to open-source projects.
 
 ---
-
-### 🎯 **Özetle:**
-✔ **GitHub profilini daha profesyonel ve şık gösteren bir README oluşturduk.**  
-✔ **Bağlantıların, becerilerin ve ilgi alanların listelendi.**  
-✔ **GitHub istatistiklerin otomatik olarak gösterilecek.**  
-✔ **Eğlenceli bir “Fun Facts” bölümü eklendi.**  
-
-🚀 **Bunu GitHub Overview kısmına eklemek için şu adımları takip et:**  
-
-1️⃣ **Yeni bir "Özel README" oluştur:**  
-- GitHub ana sayfanda **"New Repository"** butonuna bas.  
-- Repository ismi olarak **tam olarak** GitHub kullanıcı adını yaz (**senolkms** gibi).  
-- "Add a README file" seçeneğini işaretle ve oluştur.  
-
-2️⃣ **README.md dosyanı düzenle:**  
-- Dosyayı aç ve yukarıdaki içeriği yapıştır.  
-
-3️⃣ **Commit yap ve GitHub profilinde sonucu gör.**  
-
-✅ **Eğer bir ekleme veya değişiklik yapmak istersen, bana bildirebilirsin!** 😊
