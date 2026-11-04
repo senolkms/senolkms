@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Şenol Kumaş</h1>
-<h3 align="center">Computer Engineer | Backend & Test Automation (SDET) | AI Enthusiast</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=180&section=header&text=%C5%9Eenol%20Kuma%C5%9F&fontSize=42&fontColor=ffffff&animation=fadeIn&subtext=Computer%20Engineer%20%7C%20Backend%20%26%20SDET%20%7C%20AI%20Enthusiast&subfontSize=16&subfontColor=dcdcdc" width="100%"/>
+</div>
 
 <p align="center">
   <a href="https://linkedin.com/in/senolkms"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -9,12 +10,16 @@
 
 ---
 
+<img align="right" alt="Coding GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 ### 👨‍💻 About Me
 - 🎓 **Computer Engineering** graduate from Kocaeli University.
 - 💼 Experienced in enterprise **Mobile Test Automation (Appium, Java, TestNG)** at Antrek Labs (Coca-Cola İçecek / CCINEXT).
 - 🔬 Researched Deep Learning & Computer Vision in a **TÜBİTAK 2209-A** funded medical imaging project.
 - ⚙️ Building robust **Backend Architectures** with **Spring Boot & Django**, focusing on clean architecture, security, and CI/CD quality gates.
-- 🎯 Interested in **Backend Engineering, SDET / QA Automation, and Applied AI**.
+- 🎯 Passionate about **Backend Engineering, SDET / QA Automation, and Applied AI**.
+
+<br clear="right"/>
 
 ---
 
@@ -64,6 +69,10 @@
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=senolkms&show_icons=true&theme=radical&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senolkms&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=senolkms&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=senolkms&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=senolkms&theme=tokyonight&hide_border=true" width="97%" />
 </p>
