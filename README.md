@@ -23,16 +23,6 @@
 
 ---
 
-### 🌟 Featured Projects
-
-| Project | Tech Stack | Highlights |
-|---|---|---|
-| **TestOps Intelligence Hub** | `Java 17` `Spring Boot 3.5` `JWT` `JUnit 5` `PostgreSQL` `Docker` | Enterprise test execution analytics platform with mathematical flaky test detection engine, custom JUnit 5 SDK, and automated CI/CD Quality Gate evaluator. |
-| **TÜBİTAK 2209-A: Multimodal Brain Tumor Segmentation** | `Python` `PyTorch` `YOLOv11` `SAM 2` | Deep learning-based semantic segmentation models on clinical MRI datasets in collaboration with Kocaeli University Faculty of Medicine. |
-| **Concurrent Order & Inventory Engine** | `Python` `Django` `MySQL` | High-concurrency inventory tracking system ensuring transactional consistency and thread-safe stock deduction under load. |
-
----
-
 ### 🛠️ Tech Stack & Tooling
 
 #### **Backend & Databases**
